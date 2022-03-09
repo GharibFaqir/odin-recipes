@@ -1,3 +1,13 @@
-# Boiled Egg
+# The Odin Project - HTML Foundations - Project: Recipes
 
-> We be boiling egg using basic HTML and CSS!!
+## Welcome, Welcome!!
+
+**Learn how to;**
+
+_1. Boil an Egg_
+
+_2. Fry an Egg_
+
+_3. How to make Instant Noodles_
+
+**_Peace!!_**
