@@ -1,4 +1,4 @@
-.back {
+body {
   background-color: black;
   font-family: "Trebuchet MS", monospace;
 }
@@ -9,10 +9,12 @@ img {
   border-radius: 15px;
 }
 
-.head {
+h1,
+h3 {
   color: red;
 }
 
-.text {
+p,
+li {
   color: greenyellow;
 }
