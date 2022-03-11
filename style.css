@@ -1,0 +1,21 @@
+.back {
+  background-color: black;
+  font-family: "Trebuchet MS", "Courier New", Courier, monospace;
+}
+
+.head {
+  color: greenyellow;
+}
+
+p {
+  color: rgb(255, 0, 140);
+  font-weight: bold;
+}
+
+.bullet {
+  color: yellow;
+}
+
+.link {
+  color: orange;
+}
